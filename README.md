@@ -1,6 +1,6 @@
-# PurpleBox Project
+# Teamknowlogy Project
 
-Welcome to the PurpleBox project! This project aims to [brief description of the project].
+Welcome to the Teamknowlogy project! This project aims to [brief description of the project].
 
 ## Getting Started
 

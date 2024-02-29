@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the PurpleBox project will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/) and follows the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format.
+All notable changes to the Teamknowlogy project will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/) and follows the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) format.
 
 ## [Unreleased]
 

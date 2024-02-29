@@ -1,6 +1,6 @@
-# Contributing to PurpleBox Project
+# Contributing to Teamknowlogy Project
 
-Thank you for your interest in contributing to the PurpleBox project! By contributing, you help us make the project better for everyone.
+Thank you for your interest in contributing to the Teamknowlogy project! By contributing, you help us make the project better for everyone.
 
 ## How to Contribute
 
