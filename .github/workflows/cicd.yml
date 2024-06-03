@@ -1,0 +1,16 @@
+name: Execute CICD Workflow
+on:
+  push:
+    branches:
+      - develop
+      - qa
+      - main
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "Estás seguro?"
+        default: "Si"
+jobs:
+  CICD:
+    uses: teamknowlogy-org/reusable-workflows/.github/workflows/mainPipeline.yml@main
+    secrets: inherit
